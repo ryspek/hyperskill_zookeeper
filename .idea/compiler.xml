@@ -6,15 +6,33 @@
       <module name="Zookeeper.Topics-Overview_of_the_basic_program-The_eternal_truth.main" target="11" />
       <module name="Zookeeper.Topics-Overview_of_the_basic_program-Theory.main" target="11" />
       <module name="Zookeeper.Topics-Overview_of_the_basic_program-Your_name.main" target="11" />
+      <module name="Zookeeper.Topics-Standard_input-A_function_for_reading_data.main" target="11" />
+      <module name="Zookeeper.Topics-Standard_input-Read_and_print.main" target="11" />
+      <module name="Zookeeper.Topics-Standard_input-Statements.main" target="11" />
+      <module name="Zookeeper.Topics-Standard_input-Successful_reading.main" target="11" />
+      <module name="Zookeeper.Topics-Standard_input-Theory.main" target="11" />
       <module name="Zookeeper.Topics-Standard_output-Print_code.main" target="11" />
       <module name="Zookeeper.Topics-Standard_output-Theory.main" target="11" />
       <module name="Zookeeper.Topics-Standard_output-Tic-Tac-Toe.main" target="11" />
       <module name="Zookeeper.Topics-Standard_output-We_need_to_learn_Kotlin.main" target="11" />
       <module name="Zookeeper.Topics-Standard_output-What_does_the_code_print.main" target="11" />
+      <module name="Zookeeper.Topics-The_classification_of_basic_types-Existing_types.main" target="11" />
+      <module name="Zookeeper.Topics-The_classification_of_basic_types-Size,_min_and_max.main" target="11" />
+      <module name="Zookeeper.Topics-The_classification_of_basic_types-Sizes.main" target="11" />
+      <module name="Zookeeper.Topics-The_classification_of_basic_types-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Type_conversion-Cutting_the_fraction.main" target="11" />
+      <module name="Zookeeper.Topics-Type_conversion-Existing_functions.main" target="11" />
+      <module name="Zookeeper.Topics-Type_conversion-Simple_converter.main" target="11" />
+      <module name="Zookeeper.Topics-Type_conversion-The_superior_forces_of_the_Empire.main" target="11" />
+      <module name="Zookeeper.Topics-Type_conversion-Theory.main" target="11" />
       <module name="Zookeeper.Topics-Values_and_variables-Statements.main" target="11" />
       <module name="Zookeeper.Topics-Values_and_variables-Swap.main" target="11" />
       <module name="Zookeeper.Topics-Values_and_variables-Theory.main" target="11" />
       <module name="Zookeeper.util.main" target="11" />
+      <module name="Zookeeper.Zookeeper-task-build-classes-kotlin.main" target="11" />
+      <module name="Zookeeper.Zookeeper-task-build-reports-tests.main" target="11" />
+      <module name="Zookeeper.Zookeeper-task-build-test-results.main" target="11" />
+      <module name="Zookeeper.Zookeeper-task-build-tmp.main" target="11" />
       <module name="Zookeeper.Zookeeper-task.main" target="11" />
     </bytecodeTargetLevel>
   </component>
