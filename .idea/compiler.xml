@@ -2,6 +2,15 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="17">
+      <module name="Zookeeper.Topics-Characters-A_capital_letter_or_a_digit.main" target="11" />
+      <module name="Zookeeper.Topics-Characters-Comparing_numbers_and_characters.main" target="11" />
+      <module name="Zookeeper.Topics-Characters-Digits_or_not.main" target="11" />
+      <module name="Zookeeper.Topics-Characters-Previous_character.main" target="11" />
+      <module name="Zookeeper.Topics-Characters-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-How_many_nuts_will_be_left_after_division.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Next_even_number.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Reversing_a_number.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Theory.main" target="11" />
       <module name="Zookeeper.Topics-Overview_of_the_basic_program-Multiple_statements.main" target="11" />
       <module name="Zookeeper.Topics-Overview_of_the_basic_program-The_eternal_truth.main" target="11" />
       <module name="Zookeeper.Topics-Overview_of_the_basic_program-Theory.main" target="11" />
@@ -9,6 +18,11 @@
       <module name="Zookeeper.Topics-Reading_data_with_a_readln-Fix_the_input.main" target="11" />
       <module name="Zookeeper.Topics-Reading_data_with_a_readln-How_to_learn_the_whole_Kotlin_per_one_task.main" target="11" />
       <module name="Zookeeper.Topics-Reading_data_with_a_readln-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Are_the_numbers_different.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Boys_in_the_sport_class.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Exactly_one_parameter_is_positive.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Groundhogs_at_the_party.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Theory.main" target="11" />
       <module name="Zookeeper.Topics-Standard_input-A_function_for_reading_data.main" target="11" />
       <module name="Zookeeper.Topics-Standard_input-Read_and_print.main" target="11" />
       <module name="Zookeeper.Topics-Standard_input-Statements.main" target="11" />
